@@ -1,7 +1,6 @@
 
 # Automação de Indicadores
 
-Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
 Descrição:
 Imagine que você trabalha em uma grande rede de lojas de roupa com 25 lojas espalhadas por todo o Brasil.
